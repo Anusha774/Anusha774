@@ -1,14 +1,7 @@
-- 👋 Hi, I’m @Anusha774
-- 👀 I’m interested in programming and data analyse.
-- 🌱 I’m currently learning SQL on PostgreSQL and expanding my skills in data analytics.
-- 💞️ I’m looking to collaborate on data-driven projects, especially those involving data visualization, predictive modeling.
-- 💼 I’m actively seeking an apprenticeship opportunity as Data Analyst in Paris, starting in December 2024, for a duration of one year.
-  I'm particularly interested in roles that allow me to apply and grow my skills in data analysis, machine learning, and software development.
-
-- 📫 How to reach me : You can reach me via [LinkedIn] (https://www.linkedin.com/in/anushakunasingham/) or email me at kunasingham.anusha@gmail.com.
-- 😄 Pronouns: She/Her
-
-<!---
-Anusha774/Anusha774 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Bonjour, je suis @Anusha774
+- 👀 Je suis intéressée par la programmation et l'analyse de données.
+- 🌱 Je suis actuellement en train d'apprendre SQL sur PostgreSQL et de développer mes compétences en analyse de données.
+- 💼 Je recherche activement une opportunité d'apprentissage en tant qu'analyste de données à Paris, à partir de décembre 2024, pour une durée d'un an.
+  Je suis particulièrement intéressée par les rôles qui me permettent d'appliquer et de développer mes compétences en matière d'analyse de données, d'apprentissage automatique et de développement de logiciels.
+  
+- 📫  Comment me contacter : Vous pouvez me joindre via [LinkedIn] (https://www.linkedin.com/in/anushakunasingham/) or email me at kunasingham.anusha@gmail.com.
